@@ -52,6 +52,9 @@
 
 ![ImageColorSwitcher Repo](https://github-readme-stats.vercel.app/api/pin/?username=zujaj&repo=image_color_switcher&description)
 
+![ImageColorSwitcher Repo](https://github-readme-stats.vercel.app/api/pin/?username=TelicSolutionsInc&repo=DataGridViewAutoFilter&description)
+
+
 <div align="left">
    <h2>✍️ Medium Articles</h2>
 </div>
