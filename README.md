@@ -11,7 +11,7 @@
        <a href="https://stackoverflow.com/users/4517075/zujaj-misbah-khan"><img height="30" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;
        <a href="https://www.linkedin.com/in/zujaj-misbah-khan-4a43011bb/"><img height="30" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    &nbsp;
-       <a href="https://stackoverflow.com/users/4517075/zujaj-misbah-khan"><img height="30" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;    
+       <a href="https://dev.to/zujaj"><img height="30" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;    
    &nbsp;
 </p>
 <div align="center">
