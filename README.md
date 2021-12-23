@@ -8,12 +8,12 @@
    &nbsp;
    <a href="https://www.upwork.com/freelancers/~01025e3358c45e7bf1?s=996364627857502209"><img height="30" src="https://img.shields.io/badge/-UPWORK-73bb44?style=for-the-badge&logo=upwork&logoColor=white"></a>&nbsp;&nbsp;
    <a href="https://github.com/Zujaj/zujaj"><img height="30" src="https://img.shields.io/badge/-GITHUB-333?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
-      <a href="https://medium.com/@zujaj"><img height="30" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+      <a href="https://medium.com/@zujaj"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
       &nbsp;
-         <a href="https://stackoverflow.com/users/4517075/zujaj-misbah-khan"><img height="30" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;
+         <a href="https://stackoverflow.com/users/4517075/zujaj-misbah-khan"><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;
          <a href="https://www.linkedin.com/in/zujaj-misbah-khan-4a43011bb/"><img height="30" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       &nbsp;
-         <a href="https://dev.to/zujaj"><img height="30" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;
+         <a href="https://dev.to/zujaj"><img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;
       &nbsp;
    </p>
 
@@ -45,7 +45,6 @@
 
    <br/>
 
-
    <!-- A <div> tag holding the Statistics Heading -->
    <div style= "align:left;">
       <h2>📈 Statistics</a></h2>
@@ -53,8 +52,7 @@
 
 <!--A <div> tag holding the WakaTime & Language Statistics-->
 <div style="display: flex; flex-direction: row;">
-<img class="img" src="https://github-readme-stats.vercel.app/api/
-wakatime?username=zujaj&theme=dark&layout=compact" />
+<img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=zujaj&theme=dark&layout=compact" />
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zujaj&theme=dark&layout=compact" />
 </div>
 
@@ -65,16 +63,15 @@ wakatime?username=zujaj&theme=dark&layout=compact" />
 
    <br/>
 
-
 <!-- A <div> tag holding the Medium Articles Heading -->
 <div align="left">
    <h2>✍️ Medium Articles</h2>
 </div>
 
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0" alt="ImageColorSwitcher in Flutter: Part 2-Vector Image Coloring">
+[![How To Implement Google reCAPTCHA v3 in Flutter Web](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0)](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1" alt="ImageColorSwitcher in Flutter: Part 1-Raster Image Coloring">
+[![VSCode-Your IP Address in a Glance](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1)](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/2" alt="Multi-Select Dialogue in Flutter: The Unit Test Phase">
+[![ImageColorSwitcher in Flutter: Part 2-Vector Image Coloring](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/2)](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/2)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/3" alt="Multi-Select Dialogue in Flutter: A Versatile Approach">
+[![ImageColorSwitcher in Flutter: Part 1-Raster Image Coloring](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/3)](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/3)
