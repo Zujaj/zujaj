@@ -11,7 +11,7 @@
        <a href="https://stackoverflow.com/users/4517075/zujaj-misbah-khan"><img height="30" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;
        <a href="https://www.linkedin.com/in/zujaj-misbah-khan-4a43011bb/"><img height="30" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    &nbsp;
-       <a href="https://dev.to/zujaj"><img height="30" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;    
+       <a href="https://dev.to/zujaj"><img height="30" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;
    &nbsp;
 </p>
 <div align="center">
@@ -40,7 +40,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logoColor=white&color=2bbc8a&logo=python)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logoColor=white&color=2bbc8a&logo=sqlite)
 ![MYSQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logoColor=white&color=2bbc8a&logo=mysql)
-![Firebase](https://img.shields.io/badge/BaaS-Firebase-informational?style=flat&logoColor=white&color=2bbc8a&logo=firebase) 
+![Firebase](https://img.shields.io/badge/BaaS-Firebase-informational?style=flat&logoColor=white&color=2bbc8a&logo=firebase)
 ![Git](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logoColor=white&color=2bbc8a&logo=git)
 ![Github](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logoColor=white&color=2bbc8a&logo=github)
 
@@ -48,19 +48,19 @@
    <h2>📌 Pinned Repositories</h2>
 </div>
 
-![MultiSelect Dialogue App](https://github-readme-stats.vercel.app/api/pin/?username=zujaj&repo=multiple_selection_dialogue_app&description)
+![recaptcha_v3_tutorial Repo](https://github-readme-stats.vercel.app/api/pin/?username=zujaj&repo=recaptcha_v3_tutorial&description)
 
 ![ImageColorSwitcher Repo](https://github-readme-stats.vercel.app/api/pin/?username=zujaj&repo=image_color_switcher&description)
 
-![ImageColorSwitcher Repo](https://github-readme-stats.vercel.app/api/pin/?username=TelicSolutionsInc&repo=DataGridViewAutoFilter&description)
+![MultiSelect Dialogue App](https://github-readme-stats.vercel.app/api/pin/?username=zujaj&repo=multiple_selection_dialogue_app&description)
 
+![DataGridViewAutoFilter Repo](https://github-readme-stats.vercel.app/api/pin/?username=TelicSolutionsInc&repo=DataGridViewAutoFilter&description)
 
 <div align="left">
    <h2>✍️ Medium Articles</h2>
 </div>
 
-
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0" alt="ImageColorSwitcher in Flutter: Part 2-Vector Image Coloring"> 
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0" alt="ImageColorSwitcher in Flutter: Part 2-Vector Image Coloring">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1" alt="ImageColorSwitcher in Flutter: Part 1-Raster Image Coloring">
 
