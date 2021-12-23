@@ -1,31 +1,30 @@
-<div align="center">
-   <h1>Welcome! My Name is Zujaj</a>
-   </h1>
-</div>
-<p align="center">
-  &nbsp;
-  <a href="https://www.upwork.com/freelancers/~01025e3358c45e7bf1?s=996364627857502209"><img height="30" src="https://img.shields.io/badge/-UPWORK-73bb44?style=for-the-badge&logo=upwork&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Zujaj/zujaj"><img height="30" src="https://img.shields.io/badge/-GITHUB-333?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@zujaj"><img height="30" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
-   &nbsp;
-       <a href="https://stackoverflow.com/users/4517075/zujaj-misbah-khan"><img height="30" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;
-       <a href="https://www.linkedin.com/in/zujaj-misbah-khan-4a43011bb/"><img height="30" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   &nbsp;
-       <a href="https://dev.to/zujaj"><img height="30" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;
-   &nbsp;
-</p>
-<div align="center">
-<h3>🔥 A Passionate Flutter Developer</h3>
-</div>
-<br />
-<div align="left">
-   <h2>📈 GitHub Stats</a>
-   </h2>
+<!-- A <div> tag holding the Name -->
+<div align = "center">
+   <h1>Welcome! My Name is Zujaj</h1>
 </div>
 
-![Zujaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=zujaj&show_icons=true&theme=light)
+<!-- A <p> tag holding the Buttons -->
+   <p style= "align:center;">
+   &nbsp;
+   <a href="https://www.upwork.com/freelancers/~01025e3358c45e7bf1?s=996364627857502209"><img height="30" src="https://img.shields.io/badge/-UPWORK-73bb44?style=for-the-badge&logo=upwork&logoColor=white"></a>&nbsp;&nbsp;
+   <a href="https://github.com/Zujaj/zujaj"><img height="30" src="https://img.shields.io/badge/-GITHUB-333?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+      <a href="https://medium.com/@zujaj"><img height="30" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+      &nbsp;
+         <a href="https://stackoverflow.com/users/4517075/zujaj-misbah-khan"><img height="30" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;
+         <a href="https://www.linkedin.com/in/zujaj-misbah-khan-4a43011bb/"><img height="30" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      &nbsp;
+         <a href="https://dev.to/zujaj"><img height="30" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;
+      &nbsp;
+   </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zujaj&&show_icons=true&count_private=true&theme=light)
+ <!-- A <div> tag holding the Slogan -->
+ <div align="center">
+   <h3>🔥 A Passionate Flutter Developer</h3>
+ </div>
+
+   <br/>
+
+<!-- A <div> tag holdin the Tools & Skills Heading -->
 <div align="left">
    <h2>🧰 Tools & Skills</h2>
 </div>
@@ -44,18 +43,30 @@
 ![Git](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logoColor=white&color=2bbc8a&logo=git)
 ![Github](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logoColor=white&color=2bbc8a&logo=github)
 
-<div align="left">
-   <h2>📌 Pinned Repositories</h2>
+   <br/>
+
+
+   <!-- A <div> tag holding the Statistics Heading -->
+   <div style= "align:left;">
+      <h2>📈 Statistics</a></h2>
+   </div>
+
+<!--A <div> tag holding the WakaTime & Language Statistics-->
+<div style="display: flex; flex-direction: row;">
+<img class="img" src="https://github-readme-stats.vercel.app/api/
+wakatime?username=zujaj&theme=dark&layout=compact" />
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zujaj&theme=dark&layout=compact" />
 </div>
 
-![recaptcha_v3_tutorial Repo](https://github-readme-stats.vercel.app/api/pin/?username=zujaj&repo=recaptcha_v3_tutorial&description)
+<!-- A <div> tag holding the GitHub Stats  -->
+<div style="display: flex;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=zujaj&theme=dark&layout=extended" />
+</div>
 
-![ImageColorSwitcher Repo](https://github-readme-stats.vercel.app/api/pin/?username=zujaj&repo=image_color_switcher&description)
+   <br/>
 
-![MultiSelect Dialogue App](https://github-readme-stats.vercel.app/api/pin/?username=zujaj&repo=multiple_selection_dialogue_app&description)
 
-![DataGridViewAutoFilter Repo](https://github-readme-stats.vercel.app/api/pin/?username=TelicSolutionsInc&repo=DataGridViewAutoFilter&description)
-
+<!-- A <div> tag holding the Medium Articles Heading -->
 <div align="left">
    <h2>✍️ Medium Articles</h2>
 </div>
