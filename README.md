@@ -62,7 +62,7 @@
 <!-- A <div> tag holding the GitHub Stats  -->
 <div style="display: flex;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zujaj&theme=dark&layout=extended)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zujaj&theme=dark&include_all_commits=true&layout=extended)
 
 </div>
 
