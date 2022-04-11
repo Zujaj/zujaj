@@ -4,12 +4,16 @@
 
 </div>
 
+<div align="center">
+
 [![Upwork](https://img.shields.io/badge/-UPWORK-73bb44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01025e3358c45e7bf1?s=996364627857502209)
 [![GitHub](https://img.shields.io/badge/-GITHUB-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zujaj/zujaj)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zujaj)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4517075/zujaj-misbah-khan)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zujaj-misbah-khan-4a43011bb/)
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/zujaj)
+
+</div>
 
 <!-- A <div> tag holding the Slogan -->
 <div align="center">
