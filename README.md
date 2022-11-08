@@ -43,7 +43,7 @@
 ![MYSQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logoColor=white&color=2bbc8a&logo=mysql)
 ![Firebase](https://img.shields.io/badge/BaaS-Firebase-informational?style=flat&logoColor=white&color=2bbc8a&logo=firebase)
 ![Git](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logoColor=white&color=2bbc8a&logo=git)
-![Github](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logoColor=white&color=2bbc8a&logo=github)
+![GitHub](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logoColor=white&color=2bbc8a&logo=github)
 
    <br/>
 
